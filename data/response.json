@@ -1,0 +1,312 @@
+[
+        {
+          "name": "Government Share of FAAC",
+          "filled_by": "admin",
+          "economic_code": "B1.2",
+          "heading": null,
+          "type": "expenditure",
+          "sub_categories": [],
+          "fields": [
+            {
+              "pk": 284,
+              "name": "Statutory Allocation",
+              "economic_code": "70180",
+              "input_type": "number",
+              "value": "342222254"
+            },
+            {
+              "pk": 285,
+              "name": "Share of VAT",
+              "economic_code": "70125",
+              "input_type": "number",
+              "value": "43323444"
+            },
+            {
+              "pk": 286,
+              "name": "Recovered Excess Bank Charges",
+              "economic_code": "33242",
+              "input_type": "number",
+              "value": "42343244"
+            },
+            {
+              "pk": 287,
+              "name": "Excess Crude",
+              "economic_code": "1111",
+              "input_type": "number",
+              "value": "52123435"
+            },
+            {
+              "pk": 288,
+              "name": "Forex Equalisation",
+              "economic_code": "3234",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 289,
+              "name": "Budget Augmentation",
+              "economic_code": "44424",
+              "input_type": "number",
+              "value": "233332444"
+            },
+            {
+              "pk": 290,
+              "name": "Exchange Rate Difference/Gain",
+              "economic_code": "3434",
+              "input_type": "number",
+              "value": "424323442"
+            },
+            {
+              "pk": 291,
+              "name": "NNPC Refund",
+              "economic_code": "23422",
+              "input_type": "number",
+              "value": "43143243"
+            },
+            {
+              "pk": 292,
+              "name": "SURE-P",
+              "economic_code": "55443",
+              "input_type": "number",
+              "value": "43234243"
+            },
+            {
+              "pk": 293,
+              "name": "Sovereign Wealth Fund",
+              "economic_code": "23421",
+              "input_type": "number",
+              "value": "22022303"
+            },
+            {
+              "pk": 294,
+              "name": "Refund from Paris Club",
+              "economic_code": "44433",
+              "input_type": "number",
+              "value": "51254453453"
+            },
+            {
+              "pk": 295,
+              "name": "10% IGR from State Government",
+              "economic_code": "25524",
+              "input_type": "number",
+              "value": "77777142"
+            },
+            {
+              "pk": 296,
+              "name": "10% IGR from State Government",
+              "economic_code": "2552",
+              "input_type": "number",
+              "value": "7712342"
+            },
+            {
+              "pk": 297,
+              "name": "test ",
+              "economic_code": "33323",
+              "input_type": "text_input_",
+              "value": "777743434"
+            }
+          ]
+        },
+        {
+          "name": "Grants & Reimbursements",
+          "filled_by": "admin",
+          "economic_code": "B2.1",
+          "heading": null,
+          "type": "expenditure",
+          "sub_categories": [],
+          "fields": [
+            {
+              "pk": 298,
+              "name": "(i) From Federal Government",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 299,
+              "name": "(ii) From State Government",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 300,
+              "name": "(iv) From Foreign Governments",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 301,
+              "name": "(v) From NGOs",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 302,
+              "name": "Reimbursements",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 303,
+              "name": "(vii) Others (including individuals)",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 304,
+              "name": "(vii) Others (including individuals)",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 305,
+              "name": "test ",
+              "economic_code": "---",
+              "input_type": "text_input_",
+              "value": "None"
+            }
+          ]
+        },
+        {
+          "name": "LOANS",
+          "filled_by": "admin",
+          "economic_code": "B2.2",
+          "heading": null,
+          "type": "expenditure",
+          "sub_categories": [],
+          "fields": [
+            {
+              "pk": 306,
+              "name": "(vii) Others (including individuals)",
+              "economic_code": "None",
+              "input_type": "number",
+              "value": "None"
+            }
+          ]
+        },
+        {
+          "name": "Internally_Generated_Revenue_LG",
+          "filled_by": "admin",
+          "economic_code": "B1.1",
+          "heading": null,
+          "type": "expenditure",
+          "sub_categories": [],
+          "fields": [
+            {
+              "pk": 307,
+              "name": "(i) Taxes",
+              "economic_code": "i",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 308,
+              "name": "(ii) Licenses",
+              "economic_code": "ii",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 309,
+              "name": "(iii) Fees",
+              "economic_code": "iii",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 310,
+              "name": "(iv) Fines",
+              "economic_code": "iv",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 311,
+              "name": "(v) Sales",
+              "economic_code": "v",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 312,
+              "name": "(vi) Earnings",
+              "economic_code": "vi",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 313,
+              "name": "(vii) Rent on Government Building",
+              "economic_code": "vii",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 314,
+              "name": "(viii) Rent on Land and Others",
+              "economic_code": "viii",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 315,
+              "name": "(ix) Repayments",
+              "economic_code": "xi",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 316,
+              "name": "(x) Investment Income",
+              "economic_code": "x",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 317,
+              "name": "(xi) Interest",
+              "economic_code": "xi",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 318,
+              "name": "(xii) Reimbursement",
+              "economic_code": "xiii",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 319,
+              "name": "(xiii) Miscellaneous",
+              "economic_code": "xiii",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 320,
+              "name": "(xiv)Below-The-Line Receipts (BTL)",
+              "economic_code": "xiv",
+              "input_type": "number",
+              "value": "None"
+            },
+            {
+              "pk": 321,
+              "name": "Test ",
+              "economic_code": "---",
+              "input_type": "text_input_",
+              "value": "None"
+            }
+          ]
+        }
+      ]
+   
+      
+    
+  
