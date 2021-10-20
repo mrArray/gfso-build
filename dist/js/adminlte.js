@@ -1892,7 +1892,7 @@
       });
 
       if (this._options.enableRemember) {
-        localStorage.setItem("remember" + EVENT_KEY$2, CLASS_NAME_OPEN$3);
+        sessionStorage.setItem("remember" + EVENT_KEY$2, CLASS_NAME_OPEN$3);
       }
 
       $__default['default'](this._element).trigger($__default['default'].Event(EVENT_SHOWN));
@@ -1908,7 +1908,7 @@
       $bodySelector.addClass(CLASS_NAME_COLLAPSED);
 
       if (this._options.enableRemember) {
-        localStorage.setItem("remember" + EVENT_KEY$2, CLASS_NAME_COLLAPSED);
+        sessionStorage.setItem("remember" + EVENT_KEY$2, CLASS_NAME_COLLAPSED);
       }
 
       $__default['default'](this._element).trigger($__default['default'].Event(EVENT_COLLAPSED$1));
@@ -1952,7 +1952,7 @@
       }
 
       var $body = $__default['default']('body');
-      var toggleState = localStorage.getItem("remember" + EVENT_KEY$2);
+      var toggleState = sessionStorage.getItem("remember" + EVENT_KEY$2);
 
       if (toggleState === CLASS_NAME_COLLAPSED) {
         if (this._options.noTransitionAfterReload) {
